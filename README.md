@@ -1,2 +1,8 @@
-# LLM-Tool-Integrated-Reasoning-TIR-Papers
-A curated collection of research papers on LLM Tool-Integrated Reasoning (TIR), where LLMs enhance reasoning by interacting with external tools such as calculators, search engines, and code interpreters.
+# 🔧 LLM-Tool-Integrated-Reasoning-TIR-Papers
+
+A curated paper list on **Tool-Integrated Reasoning (TIR)** — a fast-evolving research direction where Large Language Models (LLMs) interact with **external tools** (e.g., calculators, search engines, code interpreters, web APIs) to enhance reasoning, decision-making, and factuality.
+
+> 🧠 TIR = Reasoning + External Tools  
+
+
+Made with ❤️ by the open research community.
